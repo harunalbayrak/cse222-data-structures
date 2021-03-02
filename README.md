@@ -1,1 +1,1 @@
-My Data Structures Assignments 2020 - The assignments were done with Java.
+My Data Structures Assignments 2020 - The assignments were written with Java.
